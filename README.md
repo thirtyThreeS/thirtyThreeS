@@ -6,7 +6,7 @@
 - 📫 How to reach me: thomas.sixberry@gmail.com
 - ⚡ Fun fact: Canada is south of Detroit (just look at a map).
 
-<br><br>
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thirtyThreeS&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
