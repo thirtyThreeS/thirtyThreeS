@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Unity/C#.
 - 🤔 I’m looking for help with finding a suitable career in the gaming industry.
 - 📫 How to reach me: thomas.sixberry@gmail.com
-- ⚡ Fun fact: Canada is south of Detroit (just look at a map).
+- ⚡ Fun fact: Working on my own 2D RPG.
 
 <br>
 
