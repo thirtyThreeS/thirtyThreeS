@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on gamedev courses.
-- 🌱 I’m currently learning Unity/C#.
+- 🌱 I’m currently learning Unity/C# and Java.
 - 🤔 I’m looking for help with finding a suitable career with something programming related. I'll learn anything. Programming is my hobby.
 - 📫 How to reach me: thomas.sixberry@gmail.com
 - ⚡ Fun fact: Working on my own 2D RPG. Also, working towards my Oracle Cert.
